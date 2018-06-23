@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# test repo
+test
+
+# personal data
+datasets
+create_nat_dataset.sh
+
 # C extensions
 *.so
 
